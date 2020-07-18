@@ -1,2 +1,2 @@
-# modal-pop-up
-this is a simple pop-up modal using html5, css3 &amp; vanillia javascript
+# Modal-pop-up
+Simple component pop-up modal using html5, css3, es6 & vanillia javascript
