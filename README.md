@@ -1,5 +1,6 @@
 # Modal-pop-up
-Simple component pop-up modal using html5, css3, es6 & vanillia javascript
+
+Simple pop-up modal component using html5, css3, vanillia javascript & es6
 
 
 
